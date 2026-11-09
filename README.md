@@ -61,6 +61,10 @@
   * `npm run build or npm run dev`
 6. Create the user using `php artisan app:create-user`
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Lakasir/)
+
 ## Usage
 * api: localdomain.test/api/test
 * webapp: localdomain.test/member/login
